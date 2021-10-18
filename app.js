@@ -1,8 +1,6 @@
 "use strict";
-var msg = 'Hola mundo';
-var hero = {
-    name: 'Ironman',
-    age: 45
-};
-hero.age = 50;
-console.log(hero.age + 1);
+// A esto se le llama, función anonima autoinvocada
+(function () {
+    var a = 10; // Siempre es bueno declarar el tipo
+    console.log(a);
+});
