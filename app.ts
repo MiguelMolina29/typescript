@@ -6,3 +6,4 @@
 
 })
 
+const nombre:string = 'Miguel';
