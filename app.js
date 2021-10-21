@@ -4,3 +4,4 @@
     var a = 10; // Siempre es bueno declarar el tipo
     console.log(a);
 });
+var nombre = 'Miguel';
