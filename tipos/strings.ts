@@ -7,6 +7,6 @@
 
     console.log(batman[10]?.toLocaleLowerCase() || 'No está ');
     // Dependiendo el "?" podemos usar el operador ternario o solo verlo
-    // Como una condicional para undefined
+    // Como una condicional para undefined :D
 
 })()
